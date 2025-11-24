@@ -72,10 +72,11 @@ Termin
 Obraz
 -----
 
-.. image:: https://preview.redd.it/1rxdhjjf67791.jpg?width=1080&crop=smart&auto=webp&s=080bb522a03c0438d43be3562bb6d9726a27db4d
+.. figure:: https://static.wikia.nocookie.net/belugacinematicuniversefanon/images/6/6a/Beluga.jpg/revision/latest/thumbnail/width/360/height/360?cb=20231226224904
    :alt: Kotek
-   :caption: Kotek.
    :align: center
+
+   Kotek.
 
 
 Tabela

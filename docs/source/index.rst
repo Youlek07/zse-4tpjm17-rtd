@@ -1,10 +1,13 @@
-Strona główna
+Strona Główna
 =============
 
+Strona główna
+
 .. toctree::
+   :titlesonly:
+   :maxdepth: 1
 
-   index
-   sprawozdanie
-   kontakt
-
+   Strona Główna <index>
+   Sprawozdanie RtD <sprawozdanie>
+   Kontakt <kontakt>
 

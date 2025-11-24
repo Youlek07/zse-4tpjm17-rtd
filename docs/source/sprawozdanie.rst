@@ -45,7 +45,7 @@ Kod blokowy:
 Odnośniki (hiperlinki)
 ------------
 
-Idź do nagłówka `"h2" <#Nagłówek poziomu 2>`_.  
+Idź do `nagłówka tytułowego <#sprawozdanie-rtd>`_.  
 
 Idź do mojego `GITHUBA <https://github.com/Youlek07>`_.  
 
@@ -72,9 +72,9 @@ Termin
 Obraz
 -----
 
-.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Iconic_image_example.png/300px-Iconic_image_example.png
-   :alt: Przykładowy obraz
-   :caption: Przykładowy obraz w dokumentacji.
+.. image:: https://preview.redd.it/1rxdhjjf67791.jpg?width=1080&crop=smart&auto=webp&s=080bb522a03c0438d43be3562bb6d9726a27db4d
+   :alt: Kotek
+   :caption: Kotek.
    :align: center
 
 
@@ -84,7 +84,7 @@ Tabela
 +----------------+----------------+
 | Kolumna 1      | Kolumna 2      |
 +================+================+
-| Przykład A     | Przykład B     |
+| Komórka A      | Komórka B      |
 +----------------+----------------+
-| Przykład C     | Przykład D     |
+| Komórka C      | Komórka D      |
 +----------------+----------------+

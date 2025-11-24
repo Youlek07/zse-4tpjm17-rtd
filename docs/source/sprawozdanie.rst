@@ -72,7 +72,7 @@ Termin
 Obraz
 -----
 
-.. figure:: https://static.wikia.nocookie.net/belugacinematicuniversefanon/images/6/6a/Beluga.jpg/revision/latest/thumbnail/width/360/height/360?cb=20231226224904
+.. figure:: beluga.jpg
    :alt: Kotek
    :align: center
 

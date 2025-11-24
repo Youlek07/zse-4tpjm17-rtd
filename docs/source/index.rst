@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
-===================================
+Strona główna
+=============
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Witamy w dokumentacji projektu stworzonego na potrzeby ćwiczenia Read the Docs.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Niniejsza dokumentacja prezentuje przykładową strukturę projektu,
+podstrony oraz składnię języka reStructuredText.
 
-.. note::
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Read_the_Docs_Logo.png/320px-Read_the_Docs_Logo.png
+   :alt: Logo Read the Docs
+   :align: center
 
-   This project is under active development.
-
-Contents
---------
+Menu
+----
 
 .. toctree::
+   :maxdepth: 1
 
-   usage
-   api
+   sprawozdanie
+   kontakt

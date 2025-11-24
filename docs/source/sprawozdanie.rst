@@ -69,14 +69,14 @@ Termin
    Opis definicji terminu.
 
 
-Obraz
+Obraz z podpisem i tekstem alternatywnym
 -----
 
 .. figure:: beluga.jpg
    :alt: Kotek
    :align: center
 
-   Kotek.
+   Kotek
 
 
 Tabela

@@ -1,8 +1,6 @@
 Strona Główna
 =============
 
-Strona główna
-
 .. toctree::
    :titlesonly:
    :maxdepth: 1

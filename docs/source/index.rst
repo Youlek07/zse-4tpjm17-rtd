@@ -1,3 +1,6 @@
+Strona główna
+=============
+
 .. toctree::
 
    index

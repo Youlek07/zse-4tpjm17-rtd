@@ -42,6 +42,12 @@ Kod blokowy:
    for i in range(3):
        print(i)
 
+Odnośniki (hiperlinki)
+------------
+
+Idź do nagłówka `"h2" <#Nagłówek poziomu 2>`_.  
+
+Idź do mojego `GITHUBA <https://github.com/Youlek07>`_.  
 
 Listy
 -----

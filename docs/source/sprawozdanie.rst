@@ -4,42 +4,42 @@ Sprawozdanie RtD
 Nagłówki (1–4)
 --------------
 
-kod::
+*kod*::
 
    Nagłówek poziomu 1
    ------------------
 
-wynik:
+*wynik:*
 
 Nagłówek poziomu 1
 ------------------
 
-kod::
+*kod*::
 
    Nagłówek poziomu 2
    ^^^^^^^^^^^^^^^^^^
 
-wynik:
+*wynik:*
 
 Nagłówek poziomu 2
 ^^^^^^^^^^^^^^^^^^
 
-kod::
+*kod*::
 
    Nagłówek poziomu 3
    """""""""""""""""""
 
-wynik:
+*wynik:*
 
 Nagłówek poziomu 3
 """""""""""""""""""
 
-kod::
+*kod*::
 
    Nagłówek poziomu 4
    ~~~~~~~~~~~~~~~~~~~
 
-wynik:
+*wynik:*
 
 Nagłówek poziomu 4
 ~~~~~~~~~~~~~~~~~~~
@@ -48,32 +48,32 @@ Nagłówek poziomu 4
 Akapity
 -------
 
-kod::
+*kod*::
 
    To jest zwykły akapit tekstowy.
 
-wynik:
+*wynik:*
 
 To jest zwykły akapit tekstowy.
 
 
-kod::
+*kod*::
 
    .. note::
       To jest akapit informacyjny Note.
 
-wynik:
+*wynik:*
 
 .. note::
    To jest akapit informacyjny Note.
 
 
-kod::
+*kod*::
 
    .. tip::
       To jest akapit informacyjny Tip.
 
-wynik:
+*wynik:*
 
 .. tip::
    To jest akapit informacyjny Tip.
@@ -82,16 +82,16 @@ wynik:
 Kod
 ---
 
-kod::
+*kod*::
 
    Kod liniowy: ``print("Hello")``
 
-wynik:
+*wynik:*
 
 Kod liniowy: ``print("Hello")``
 
 
-kod::
+*kod*::
 
    .. code-block:: python
 
@@ -99,7 +99,7 @@ kod::
       for i in range(3):
           print(i)
 
-wynik:
+*wynik:*
 
 .. code-block:: python
 
@@ -111,20 +111,20 @@ wynik:
 Odnośniki (hiperlinki)
 ----------------------
 
-kod::
+*kod*::
 
    Idź do `nagłówka tytułowego <#sprawozdanie-rtd>`_.
 
-wynik:
+*wynik:*
 
 Idź do `nagłówka tytułowego <#sprawozdanie-rtd>`_.
 
 
-kod::
+*kod*::
 
    Idź do mojego `GITHUBA <https://github.com/Youlek07>`_.
 
-wynik:
+*wynik:*
 
 Idź do mojego `GITHUBA <https://github.com/Youlek07>`_.
 
@@ -132,36 +132,36 @@ Idź do mojego `GITHUBA <https://github.com/Youlek07>`_.
 Listy
 -----
 
-kod::
+*kod*::
 
    - pierwszy punkt
    - drugi punkt
      - podpunkt
 
-wynik:
+*wynik:*
 
 - pierwszy punkt  
 - drugi punkt  
   - podpunkt
 
 
-kod::
+*kod*::
 
    1. element pierwszy
    2. element drugi
 
-wynik:
+*wynik:*
 
 1. element pierwszy  
 2. element drugi
 
 
-kod::
+*kod*::
 
    Termin
       Opis definicji terminu.
 
-wynik:
+*wynik:*
 
 Termin  
    Opis definicji terminu.
@@ -170,7 +170,7 @@ Termin
 Obraz z podpisem i tekstem alternatywnym
 ----------------------------------------
 
-kod::
+*kod*::
 
    .. figure:: beluga.jpg
       :alt: Kotek
@@ -178,7 +178,7 @@ kod::
 
       Kotek
 
-wynik:
+*wynik:*
 
 .. figure:: beluga.jpg
    :alt: Kotek
@@ -190,7 +190,7 @@ wynik:
 Tabela
 ------
 
-kod::
+*kod*::
 
    +----------------+----------------+
    | Kolumna 1      | Kolumna 2      |
@@ -200,7 +200,7 @@ kod::
    | Komórka C      | Komórka D      |
    +----------------+----------------+
 
-wynik:
+*wynik:*
 
 +----------------+----------------+
 | Kolumna 1      | Kolumna 2      |

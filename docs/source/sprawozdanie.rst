@@ -136,13 +136,11 @@ Listy
 
    - pierwszy punkt
    - drugi punkt
-     - podpunkt
 
 *wynik:*
 
 - pierwszy punkt  
 - drugi punkt  
-  - podpunkt
 
 
 *kod*::
